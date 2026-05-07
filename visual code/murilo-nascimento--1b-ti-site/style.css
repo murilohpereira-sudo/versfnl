@@ -36,3 +36,11 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+a:hover {
+  color: rgb(122, 8, 228);
+}
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
