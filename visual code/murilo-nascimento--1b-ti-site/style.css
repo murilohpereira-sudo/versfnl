@@ -45,3 +45,19 @@ iframe {
   margin-left: auto;
   margin-right: auto;
 }
+.linha{
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.linha img{
+    width: 40%;
+    border-radius: 10%;
+}
+form {
+  text-align: center;
+  margin-top: 20px;
+}
